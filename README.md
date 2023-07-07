@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying Bachelor of Science in **Information Technology**
 
-- 💬 Ask me about **python, flask, C# .NET, MVC, Networking, CyberSecurity**
+- 💬 Ask me about **python, Django & flask, C# .NET, MVC, Networking, CyberSecurity**
 
 - 📫 How to reach me **rizwanilyas.me@gmail.com**
 
